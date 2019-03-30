@@ -1,0 +1,15 @@
+[1]
+    Name = "About"
+    URL = "/"
+[2]
+    Name = "Research"
+    URL = "/research"
+[3]
+    Name = "Resume"
+    URL = "/resume.pdf"
+[4]
+    Name = "Github"
+    URL = "https://github.com/lmeier"
+[5]
+    Name = "Email"
+    URL = "mailto:liam.meier@nyu.edu"
