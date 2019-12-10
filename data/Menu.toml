@@ -6,10 +6,10 @@
     URL = "/research"
 [3]
     Name = "Resume"
-    URL = "/resume.pdf"
+    URL = "/LiamMeierResume.pdf"
 [4]
     Name = "Github"
     URL = "https://github.com/lmeier"
 [5]
     Name = "Email"
-    URL = "mailto:liam.meier@nyu.edu"
+    URL = "mailto:liam@liammeier.xyz"

@@ -1,3 +1,5 @@
+staticDir = ["static"]
+
 baseURL = "/"
 languageCode = "en-us"
 title = "Liam Meier"
